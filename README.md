@@ -24,3 +24,4 @@ Issues/Planned features:
 - Can't get exact values on sliders (right click to type will prolly do it)  
 - The current FFA detection is barely good enough to be placeholder, there is a way to figure out the teams properly, probably will be fixed soon
 - I can't guarantee that ChatGPT hasn't just added a feature that injects ezFrags and insta-bans your account, I have no experience in development, this is meant to be a fun project  
+- I can personally say I haven't added any rat/anything else to the software, but also I am literally just an account on github with a burner email, I wouldn't even trust this
